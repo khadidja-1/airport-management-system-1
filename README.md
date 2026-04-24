@@ -7,9 +7,9 @@ A simple Airport Management System built with Java, demonstrating the 5 core OOP
 
 ```
 airport-management-system/
-├── AirportManagementSystem.java   # Full source code
-├── AirportManagementSystem.jar    # Executable JAR
-├── Dockerfile                     # Docker configuration
+├── AirportManagementSystem.java  
+├── AirportManagementSystem.jar    
+├── Dockerfile                    
 └── README.md
 ```
 
